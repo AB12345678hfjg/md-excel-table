@@ -1,0 +1,28 @@
+A1: Doctor Schedule Planner
+[Merge Cells A1 to H1]
+
+A2: Time     | B2: Monday | C2: Tuesday | D2: Wednesday | E2: Thursday | F2: Friday | G2: Saturday | H2: Sunday
+------------------------------------------------------------------------------
+| Morning    | 139629     | 148336      | 192142        | 8762        | 150025     |              |
+|            | Rahim Khan | Iqbal Azeem | SM Zameer     | Tayyab Noor | Shamsher Ali|             |
+|            | 1962       | 195425      | 62436         | 98660       | 250900     |              |
+|            | Arif Chotani | ASHFAQ SANJRANI | SHUKAT JAMALI | 98687 | 267086 |              |
+|            | 110817     | 103693      | 143545        | 231005      | 6302       |              |
+|            | Taleh Mohammad | Abdul Rehman | IMTIAZ FAZLANI | 98626 | 195327 |              |
+|            | 246444     | 113418      | 185240        | 192909      | 117334     |              |
+|            | Keshur Kumar | Muneer Ahmed | SEHER SHEHZAD  | 237254      | 202064     |              |
+|            | 247690     | 149036      | 221625        | H.R. Jadoon | 61873      |              |
+|            | Moiz Ali   | 221623      | 270751        | 244151      | 6541       |              |
+|            | 113418     | 230981      |              |        |        |              |
+| Evening    | 60103      | 133173      | 190515        | 150025      | 150025     |              |
+|            | Hafiz Memoon | Abdul Jabbar | M Jameel    | Zafer Farooqi | M Jameel  |              |
+|            | 103707     | 170529      | 274468        | 267012      | 267086     |              |
+|            | Rehmat Ali | HAROON RASHEED | Muhammad Saleem| TAHIR ALI KHAN | 128724 |              |
+|            | 230972     | 110887      | Muhammad Bilal | EHSANULLAH   | 190515    |              |
+|            | T.K. RAJPUT | Naseer Shahreeb | 265712 | 278081       |              |
+|            | 230982     | 124252      |              |             |              |
+|            | Laiqat Ali  | 176721      |              |              |              |
+|            | 110881     | 189893      |              |              |              |
+ |            | Shahid Ali | 201479     |              |              |              |
+------------------------------------------------------------------------------
+
